@@ -1,0 +1,18 @@
+{
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "disabled",
+      "allowFrom": [
+        "*"
+      ]
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": true
+      }
+    }
+  }
+}
